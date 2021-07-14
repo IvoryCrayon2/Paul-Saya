@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mogomotsigumede
-- 👀 I’m interested in ... women
+- 👀 I’m interested in ... women & girls
 - 🌱 I’m currently learning ... not abandoning nobody
 - 💞️ I’m looking to collaborate on ... Technology
 - 📫 How to reach me ... EnconDivion@outlook.com
