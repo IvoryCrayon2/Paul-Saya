@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mogomotsigumede
-- 👀 I’m interested in ... Training and Atendding class
-- 🌱 I’m currently learning ... Css
-- 💞️ I’m looking to collaborate on ... Technology
+- 👀 I’m interested in ... Training and Attending class
+- 🌱 I’m currently learning ... Css & HTML
+- 💞️ I’m looking to collaborate on ... Women 
 - 📫 How to reach me ... EnconDivion@outlook.com
 
 <!---
