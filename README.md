@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mogomotsig
 - 👀 I’m interested in ... Training and Attending class
-- 🌱 I’m currently learning ... CSS & HTML.
-- 💞️ I’m looking to collaborate on ... Women
+- 🌱 I’m currently learning ... CSS & HTM plus Javascript 
+- 💞️ I’m looking to collaborate on ... Developing the wildlife of creatures that life in the Boss backyard. 
 - 📫 How to reach me ... EnconDivion@outlook.com
 
 <!---
