@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mogomotsig
-- 👀 I’m interested in ... Training and Attending class
+- 👀 I’m interested in ... X Regenerating, Wildlife. 
 - 🌱 I’m currently learning ... CSS & HTM plus Javascript 
 - 💞️ I’m looking to collaborate on ... Developing the wildlife of creatures that life in the Boss backyard. 
 - 📫 How to reach me ... EnconDivion@outlook.com
