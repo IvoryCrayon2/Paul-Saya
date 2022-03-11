@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mogomotsig
-- 👀 I’m interested in ... X Regenerating, Wildlife. 
-- 🌱 I’m currently learning ... CSS & HTM plus Javascript 
-- 💞️ I’m looking to collaborate on ... Developing the wildlife of creatures that life in the Boss backyard. 
+- 👀 I’m interested in ... Women, Clubs, Girls, Next New Gen, . 
+- 🌱 I’m currently learning ... CSS & HTM plus Javascript, Rudy, C++, C#, Python, Weebly, IOS, Andriod. 
+- 💞️ I’m looking to collaborate on ... Developing the long distance relationship with Alice. 
 - 📫 How to reach me ... EnconDivion@outlook.com
 
 <!---
