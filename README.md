@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mogomotsiX
+- 👋 Hi, I’m @PaulSaya
 - 👀 I’m interested in ... Liverpool University, Carmel College. 
 - 🌱 I’m currently learning ... CSS & HTM plus Javascript, Rudy, C++, C#, Python, Weebly, IOS, Andriod. 
 - 💞️ I’m looking to collaborate on ... Developing the long distance relationship with Alice. 
